@@ -1,0 +1,8 @@
+README.md
+setup.py
+way/__init__.py
+way.egg-info/PKG-INFO
+way.egg-info/SOURCES.txt
+way.egg-info/dependency_links.txt
+way.egg-info/top_level.txt
+way/fs/__init__.py
